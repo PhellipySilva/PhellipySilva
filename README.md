@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phellipy.dev/)
 
 
-![Phellipy Silva stats](https://github-readme-stats.vercel.app/api?username=PhellipySilva&show_icons=true&theme=radical)
+[![Phellipy Silva stats](https://github-readme-stats.vercel.app/api?username=PhellipySilva&show_icons=true&theme=radical)](https://gitmystat.vercel.app/user?theme=dino-light&username=Phellipy&color=0xE6F1FF&accent=0x4ADEDE&background=0x0B1220&border=0x2DD4BF&tip=0x94A3B8&radius=22)
 
 ## Tecnologias que eu uso no meu dia
 
