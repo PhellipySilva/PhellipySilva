@@ -1,10 +1,7 @@
-### Olá eu sou Phellipy Silva 👋
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGWFVoMJjllCHKlnDzeukwg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phellipy.dev/)
+### Olá! Sou Phellipy, desenvolvedor web apaixonado por tecnologia e empreendedorismo. Crio sites, sistemas e produtos digitais, sempre focado em transformar ideias em projetos reais e escaláveis. Também produzo conteúdo sobre tecnologia e negócios online 🚀
 
 
-## Tecnologias que eu uso no meu dia
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,9 +10,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<i>Conectando inovação, empreendedorismo e educação para mudar destinos.</i>
+##
 
-### Últimos videos:
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCGWFVoMJjllCHKlnDzeukwg](https://www.youtube.com/@LaboreWeb))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phellipy.dev/)
+
+
+### 🎙️ Episódio em destaque:
 - O segredo por trás de quem evolui rápido na área tech - Everton e Anthony | Por Trás do Código #4 ([https://youtu.be/9R_fjOFihQo](https://youtu.be/6TO21tkDJf4?si=Y2AClxEBwefoY3AE))<br/>
 
 
