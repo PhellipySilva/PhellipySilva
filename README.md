@@ -18,7 +18,7 @@
 <i>Conectando inovação, empreendedorismo e educação para mudar destinos.</i>
 
 ### Últimos videos:
-- [JUVENTUDE, EMPREENDEDORISMO E VISÃO DE FUTURO (Jean Bento e Phellipy Silva) | Moldando o amanhã](https://youtu.be/9R_fjOFihQo)<br/>
+- O segredo por trás de quem evolui rápido na área tech - Everton e Anthony | Por Trás do Código #4 ([https://youtu.be/9R_fjOFihQo](https://youtu.be/6TO21tkDJf4?si=Y2AClxEBwefoY3AE))<br/>
 
 
 
