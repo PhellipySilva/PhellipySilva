@@ -1,4 +1,4 @@
-### Olá! Sou Phellipy, desenvolvedor web apaixonado por tecnologia e empreendedorismo. Crio sites, sistemas e produtos digitais, sempre focado em transformar ideias em projetos reais e escaláveis. Também produzo conteúdo sobre tecnologia e negócios online 🚀
+### Dev web | Criando sites, sistemas e produtos digitais 🚀
 
 
 
